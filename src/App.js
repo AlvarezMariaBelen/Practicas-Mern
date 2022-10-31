@@ -21,3 +21,5 @@ function App() {
 }
 
 export default App;
+
+//para usar una variable de js, se emplea directamente con {}
