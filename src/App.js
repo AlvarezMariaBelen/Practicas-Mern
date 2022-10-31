@@ -1,21 +1,17 @@
-import logo from "./logo.svg";
 import "./App.css";
+import tituloCard from "./components/tituloCard";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src="https://i.pinimg.com/originals/0f/f6/3c/0ff63cab9dfd6aad70198b698ac965d9.jpg" className="App-logo" alt="logo" />
-        <p>Maria Belen</p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="card">
+      <tituloCard></tituloCard>
+      <p className="down">pa abajo</p>
+      <div className="datas">
+        <p>dr strange 2</p>
+      </div>
+      <div className="datas">
+        <p>dr steven open a portal</p>
+      </div>
     </div>
   );
 }
