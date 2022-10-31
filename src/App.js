@@ -1,10 +1,10 @@
 import "./App.css";
-import tituloCard from "./components/tituloCard";
+import TituloCard from "./components/tituloCard";
 
 function App() {
   return (
     <div className="card">
-      <tituloCard></tituloCard>
+      <TituloCard></TituloCard>
       <p className="down">pa abajo</p>
       <div className="datas">
         <p>dr strange 2</p>

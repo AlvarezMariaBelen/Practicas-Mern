@@ -1,6 +1,6 @@
 import React from "react"
 
-export default function tituloCard() {
+export default function TituloCard() {
     return(
         <>
         <h1 className="title">cinema</h1>
