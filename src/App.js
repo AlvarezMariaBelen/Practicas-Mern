@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="https://i.pinimg.com/originals/0f/f6/3c/0ff63cab9dfd6aad70198b698ac965d9.jpg" className="App-logo" alt="logo" />
         <p>Maria Belen</p>
         <a
           className="App-link"
