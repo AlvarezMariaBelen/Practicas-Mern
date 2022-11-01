@@ -1,0 +1,28 @@
+.card {
+  border: black;
+  border-style: solid;
+  width: 300px;
+}
+.title {
+  border: blue;
+  border-style: solid;
+}
+.image {
+  border: darkorange;
+  border-style: solid;
+  width: 295px;
+}
+.contarrow {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.datas {
+  border: crimson;
+  border-style: solid;
+  display: flex;
+  flex-direction: column;
+}
+.boton {
+  margin-left: 140px;
+}
